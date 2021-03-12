@@ -1,0 +1,23 @@
+body {
+    background-image: url("file:///home/chantel/Documents/web_dev/broccoli/20201229_114302.jpg");
+    background-size: cover;
+    background-color: beige;
+}
+
+img {
+    height: 100px;
+    margin-right: 2%;
+}
+
+h1, p {
+    color:paleturquoise;
+    text-align: center;
+}
+
+.dark-text {
+    color: aqua;
+}
+
+.black-text {
+    color: black;
+}
